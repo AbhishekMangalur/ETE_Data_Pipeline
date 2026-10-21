@@ -2,6 +2,12 @@
 
 An end-to-end data engineering project that ingests e-commerce data from PostgreSQL, processes it using PySpark and Delta Lake, orchestrates workflows with Apache Airflow, validates data quality, and delivers analytics through Streamlit and Metabase dashboards.
 
+
+## Workflow
+
+![E-commerce Data Engineering Pipeline]("Dashboard Pictures/E-Commerce Data Pipeline Workflow Infographic.png")
+
+
 ## Architecture
 
 ```mermaid
