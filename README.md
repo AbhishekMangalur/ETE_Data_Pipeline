@@ -5,7 +5,7 @@ An end-to-end data engineering project that ingests e-commerce data from Postgre
 
 ## Workflow
 
-![E-commerce Data Engineering Pipeline]("Dashboard Pictures/E-Commerce Data Pipeline Workflow Infographic.png")
+![E-commerce Data Engineering Pipeline](<Dashboard Pictures/E-Commerce Data Pipeline Workflow Infographic.png>)
 
 
 ## Architecture
